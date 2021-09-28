@@ -1,0 +1,19 @@
+
+public class ObjectOriented {
+
+ private String flavor;
+ 
+ public void setflavor(String newFlavor) {
+   flavor = newFlavor;
+   }
+   
+   public String getFlavor() {
+     return flavor;
+     }
+     
+     public void openBag() {
+       System.out.printIn("Bag is open!");
+       }
+       
+       
+       }
